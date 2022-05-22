@@ -162,7 +162,8 @@
       "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
       "serviceId": 1,
       "employeeId": 1,
-      "clientId": 1
+      "clientId": 1,
+      "ulrToImage": "https://i.ibb.co/tKRLHZP/Electrician.jpg"
     },
     {
       "id": 2,
@@ -170,7 +171,8 @@
       "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
       "serviceId": 2,
       "employeeId": 2,
-      "clientId": 1
+      "clientId": 1,
+      "ulrToImage": "https://i.ibb.co/rHFXP4S/Plumber.jpg"
     }
   ],
   "users": [
