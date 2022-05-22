@@ -38,16 +38,16 @@
             "title": "REPURPOSE & REUSE",
             "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
             "serviceId": 1,
-            "employeeID": 1,
-            "userID": 1
+            "employeeId": 1,
+            "clientId": 1
         },
         {
             "id": 2,
             "title": "REPURPOSE & REUSE",
             "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
             "serviceId": 2,
-            "employeeID": 2,
-            "userID": 1
+            "employeeId": 2,
+            "clientId": 1
         }      
     ],
     "users": [
