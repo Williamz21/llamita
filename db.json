@@ -1,7 +1,7 @@
 {
   "employees": [
     {
-      "id": 1,
+      "id": 5,
       "name": "Darwin Sara",
       "age": 27,
       "serviceId": 1,
@@ -12,7 +12,7 @@
       "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. In vero amet fugiat repudiandae aut similique odit natus maxime praesentium.  Exercitationem magnam ullam aliquid beatae cupiditate nesciunt sed est! Tempore corporis id, voluptatum dolores fuga ex recusandae inventore, est molestiae soluta quia, ipsa sunt ducimus voluptatibus sint quaerat."
     },
     {
-      "id": 2,
+      "id": 6,
       "name": "Galileo Sara",
       "age": 25,
       "serviceId": 2,
@@ -23,7 +23,7 @@
       "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. In vero amet fugiat repudiandae aut similique odit natus maxime praesentium.  Exercitationem magnam ullam aliquid beatae cupiditate nesciunt sed est! Tempore corporis id, voluptatum dolores fuga ex recusandae inventore, est molestiae soluta quia, ipsa sunt ducimus voluptatibus sint quaerat."
     },
     {
-      "id": 3,
+      "id": 7,
       "name": "Martio Jalan",
       "age": 30,
       "serviceId": 3,
@@ -34,7 +34,7 @@
       "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. In vero amet fugiat repudiandae aut similique odit natus maxime praesentium.  Exercitationem magnam ullam aliquid beatae cupiditate nesciunt sed est! Tempore corporis id, voluptatum dolores fuga ex recusandae inventore, est molestiae soluta quia, ipsa sunt ducimus voluptatibus sint quaerat."
     },
     {
-      "id": 4,
+      "id": 8,
       "name": "Rody Velasquez",
       "age": 27,
       "serviceId": 1,
@@ -45,7 +45,7 @@
       "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. In vero amet fugiat repudiandae aut similique odit natus maxime praesentium.  Exercitationem magnam ullam aliquid beatae cupiditate nesciunt sed est! Tempore corporis id, voluptatum dolores fuga ex recusandae inventore, est molestiae soluta quia, ipsa sunt ducimus voluptatibus sint quaerat."
     },
     {
-      "id": 5,
+      "id": 9,
       "name": "Rocman Carmon",
       "age": 25,
       "serviceId": 2,
@@ -56,7 +56,7 @@
       "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. In vero amet fugiat repudiandae aut similique odit natus maxime praesentium.  Exercitationem magnam ullam aliquid beatae cupiditate nesciunt sed est! Tempore corporis id, voluptatum dolores fuga ex recusandae inventore, est molestiae soluta quia, ipsa sunt ducimus voluptatibus sint quaerat."
     },
     {
-      "id": 6,
+      "id": 10,
       "name": "Max Maxim",
       "age": 30,
       "serviceId": 3,
@@ -67,7 +67,7 @@
       "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. In vero amet fugiat repudiandae aut similique odit natus maxime praesentium.  Exercitationem magnam ullam aliquid beatae cupiditate nesciunt sed est! Tempore corporis id, voluptatum dolores fuga ex recusandae inventore, est molestiae soluta quia, ipsa sunt ducimus voluptatibus sint quaerat."
     },
     {
-      "id": 7,
+      "id": 11,
       "name": "Carlos Velasquez",
       "age": 27,
       "serviceId": 1,
@@ -78,7 +78,7 @@
       "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. In vero amet fugiat repudiandae aut similique odit natus maxime praesentium.  Exercitationem magnam ullam aliquid beatae cupiditate nesciunt sed est! Tempore corporis id, voluptatum dolores fuga ex recusandae inventore, est molestiae soluta quia, ipsa sunt ducimus voluptatibus sint quaerat."
     },
     {
-      "id": 8,
+      "id": 12,
       "name": "Rocman Moran",
       "age": 25,
       "serviceId": 2,
@@ -89,7 +89,7 @@
       "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. In vero amet fugiat repudiandae aut similique odit natus maxime praesentium.  Exercitationem magnam ullam aliquid beatae cupiditate nesciunt sed est! Tempore corporis id, voluptatum dolores fuga ex recusandae inventore, est molestiae soluta quia, ipsa sunt ducimus voluptatibus sint quaerat."
     },
     {
-      "id": 9,
+      "id": 13,
       "name": "Rock Romero",
       "age": 30,
       "serviceId": 3,
@@ -133,6 +133,28 @@
       "urlToImage": "https://i.ibb.co/7RFZJ0W/person.jpg",
       "adress": "Jr San martin 10",
       "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. In vero amet fugiat repudiandae aut similique odit natus maxime praesentium.  Exercitationem magnam ullam aliquid beatae cupiditate nesciunt sed est! Tempore corporis id, voluptatum dolores fuga ex recusandae inventore, est molestiae soluta quia, ipsa sunt ducimus voluptatibus sint quaerat."
+    },
+    {
+      "id": 4,
+      "name": "William's Romero",
+      "age": "21",
+      "email": "gogal210a@gmail.com",
+      "number": "946127886",
+      "altnumber": "12349",
+      "urlToImage": "https://i.ibb.co/XkhCy5M/noFoto.jpg",
+      "adress": "Unidad Vecinal",
+      "description": "Hola"
+    },
+    {
+      "id": 14,
+      "name": "Carlos Calero",
+      "age": "45",
+      "email": "carlos.calero@gmail.com",
+      "number": "999999923",
+      "altnumber": "",
+      "urlToImage": "https://i.ibb.co/XkhCy5M/noFoto.jpg",
+      "adress": "",
+      "description": ""
     }
   ],
   "services": [
@@ -155,38 +177,91 @@
       "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. In vero amet fugiat repudiandae aut similique odit natus maxime praesentium."
     }
   ],
-  "request": [
-    {
-      "id": 1,
-      "title": "REPURPOSE & REUSE",
-      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
-      "serviceId": 1,
-      "employeeId": 1,
-      "clientId": 1,
-      "ulrToImage": "https://i.ibb.co/tKRLHZP/Electrician.jpg"
-    },
-    {
-      "id": 2,
-      "title": "REPURPOSE & REUSE",
-      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
-      "serviceId": 2,
-      "employeeId": 2,
-      "clientId": 1,
-      "ulrToImage": "https://i.ibb.co/rHFXP4S/Plumber.jpg"
-    }
-  ],
+  "request": [],
   "users": [
     {
-      "email": "jhon.doe@gmail.com",
-      "password": "Op3n$0urc3",
+      "email": "william.garcia@gmail.com",
+      "password": "$2a$10$s.anJF91S9v7T7E2vpTGj.6Pl1YMZ6Z0jvmUJupCxIYYGS5dAMqTC",
       "id": 1,
-      "typeuser": "Client"
+      "typeuser": "client"
     },
     {
-      "email": "yaterminolaclase@gmail.com",
-      "password": "$2a$10$pgaw.M1OwygzA7hYsfZQzOaDP1YifUcqpigGsUB4cFU03InfRpSqW",
+      "email": "rosmery.moran@gmail.com",
+      "password": "$2a$10$s.anJF91S9v7T7E2vpTGj.6Pl1YMZ6Z0jvmUJupCxIYYGS5dAMqTC",
       "id": 2,
-      "typeuser": "Employee"
+      "typeuser": "client"
+    },
+    {
+      "email": "silvia.rivas@gmail.com",
+      "password": "$2a$10$s.anJF91S9v7T7E2vpTGj.6Pl1YMZ6Z0jvmUJupCxIYYGS5dAMqTC",
+      "typeuser": "client",
+      "id": 3
+    },
+    {
+      "email": "gogal210a@gmail.com",
+      "password": "$2a$10$Sw8.j.rhwCT1Gt1wg13BFOE2f/332Rg.24Y8FQ3bY1rixmQaZHwLG",
+      "id": 4,
+      "typeuser": "client"
+    },
+    {
+      "email": "darwin.sara@gmail.com",
+      "password": "$2a$10$s.anJF91S9v7T7E2vpTGj.6Pl1YMZ6Z0jvmUJupCxIYYGS5dAMqTC",
+      "id": 5,
+      "typeuser": "employee"
+    },
+    {
+      "email": "galileo.sara@gmail.com",
+      "password": "$2a$10$s.anJF91S9v7T7E2vpTGj.6Pl1YMZ6Z0jvmUJupCxIYYGS5dAMqTC",
+      "id": 6,
+      "typeuser": "employee"
+    },
+    {
+      "email": "matio.jaran@gmail.com",
+      "password": "$2a$10$s.anJF91S9v7T7E2vpTGj.6Pl1YMZ6Z0jvmUJupCxIYYGS5dAMqTC",
+      "id": 7,
+      "typeuser": "employee"
+    },
+    {
+      "email": "rody.velasquez@gmail.com",
+      "password": "$2a$10$s.anJF91S9v7T7E2vpTGj.6Pl1YMZ6Z0jvmUJupCxIYYGS5dAMqTC",
+      "id": 8,
+      "typeuser": "employee"
+    },
+    {
+      "email": "rocman.carmon@gmail.com",
+      "password": "$2a$10$s.anJF91S9v7T7E2vpTGj.6Pl1YMZ6Z0jvmUJupCxIYYGS5dAMqTC",
+      "id": 9,
+      "typeuser": "employee"
+    },
+    {
+      "email": "max.maxim@gmail.com",
+      "password": "$2a$10$s.anJF91S9v7T7E2vpTGj.6Pl1YMZ6Z0jvmUJupCxIYYGS5dAMqTC",
+      "id": 10,
+      "typeuser": "employee"
+    },
+    {
+      "email": "carlos.velasquez@gmail.com",
+      "password": "$2a$10$s.anJF91S9v7T7E2vpTGj.6Pl1YMZ6Z0jvmUJupCxIYYGS5dAMqTC",
+      "id": 11,
+      "typeuser": "employee"
+    },
+    {
+      "email": "rocman.moran@gmail.com",
+      "password": "$2a$10$s.anJF91S9v7T7E2vpTGj.6Pl1YMZ6Z0jvmUJupCxIYYGS5dAMqTC",
+      "id": 12,
+      "typeuser": "employee"
+    },
+    {
+      "email": "rock.romero@gmail.com",
+      "password": "$2a$10$s.anJF91S9v7T7E2vpTGj.6Pl1YMZ6Z0jvmUJupCxIYYGS5dAMqTC",
+      "id": 13,
+      "typeuser": "employee"
+    },
+    {
+      "email": "carlos.calero@gmail.com",
+      "password": "$2a$10$xFd3fCxSzgEjilWniMTWdu7NUKP4MXn6LOSiO8iRele6f7XcOSFuO",
+      "id": 14,
+      "typeuser": "client"
     }
   ]
 }
